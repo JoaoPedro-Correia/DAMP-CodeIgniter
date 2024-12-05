@@ -1,7 +1,12 @@
 # DAMP-CodeIgniter
+## INSTALL
+```bash
+sudo docker compose up
+```
+
 ## RUN
 ```bash
-sudo docker-compose start
+sudo docker compose start
 ```
 
 ## Docker File
